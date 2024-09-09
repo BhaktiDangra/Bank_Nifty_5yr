@@ -1,6 +1,9 @@
 # Bank_nifty_5yr
- ```markdown
+
+### SQL Query Results
+
 ```sql
+SELECT date, close_amt FROM banknifty5yr;
 SELECT *
 	FROM public.banknifty5yr;
 
