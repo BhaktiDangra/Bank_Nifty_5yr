@@ -1,4 +1,5 @@
 # Bank_nifty_5yr
+```sql
 
 SELECT *
 	FROM public.banknifty5yr;
