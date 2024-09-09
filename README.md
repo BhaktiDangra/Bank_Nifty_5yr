@@ -4,8 +4,6 @@
 SELECT *
 	FROM public.banknifty5yr;
 
-(data-1725879417336.csv)
-
 select date ,
 high_amt - low_amt as velocity
 from banknifty5yr;
